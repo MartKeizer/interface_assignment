@@ -22,7 +22,6 @@
     height: calc(100vh - 70px);
     float: left;
     padding: 0px;
-	border: 1px solid black;
 }
 
 .row::after {
