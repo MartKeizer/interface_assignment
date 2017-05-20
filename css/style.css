@@ -3,6 +3,21 @@
 	text-align: center;
 }
 
+@media screen and (max-width: 1100px)  {
+
+	.col {
+		width: 33.333333%;
+		float: left;
+		padding: 2px;
+		border: 1px solid black;
+		height:25%;
+	}
+	.location {
+		background-color: green;
+		height: 50%;
+}
+}
+
 .header {
     border: 2px solid black;
     padding: 0px;
@@ -48,15 +63,6 @@
 }
 .location {
 	background-color: green;
+	height: 66.66%;
 }
 
-@media screen and (max-width: 1100px)  {
-
-	.col {
-		width: 33.333333%;
-		float: left;
-		padding: 2px;
-		border: 1px solid black;
-		height:25%;
-	}
-}
