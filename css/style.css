@@ -55,7 +55,7 @@
 	float: left;
         padding: 2px;
         border: 1px solid black;
-	height:33.33%;
+	height:33.333333%;
 }
 
 .heart-rate {
@@ -63,6 +63,6 @@
 }
 .location {
 	background-color: green;
-	height: 66.66%;
+	height: 66.666666%;
 }
 
